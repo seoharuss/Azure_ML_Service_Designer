@@ -15,14 +15,14 @@
 <br>
 ## Azure 구독이 없는 경우
 
-Azure 구독이 없는 경우 구독을 할 수 있는 방법은 3가지가 있다.
+Azure 구독이 없는 경우 구독을 할 수 있는 방법은 3가지가 있습니다.
 1. 무료 평가판
 2. 종량제 구매
 3. 학생용 Azure
 
 ![image](https://github.com/seoharuss/Azure_ML_Service_Designer/assets/127467806/e4929da2-eec8-47b7-b4da-1b2b15026e6f)
 
-위의 사진에서 추가 버튼을 클릭한다.
+위의 사진에서 추가 버튼을 클릭합니다.
 
 ![image](https://github.com/seoharuss/Azure_ML_Service_Designer/assets/127467806/adb3a968-5c90-47f9-b88c-daadc7b034ac)
 
