@@ -18,4 +18,6 @@
 ---
 0. [Ready to start !](./Session/Session0.md)
 1. [Create Azure Machine Learning Service](./Session/Session1.md)
-2. []()
+2. [Create VM in Azure Machine Learning Studio](./Session/Session2.md)
+3. [Create VM in Azure Machine Learning Studio](./Session/Session3.md)
+4. [Create VM in Azure Machine Learning Studio](./Session/Session4.md)
