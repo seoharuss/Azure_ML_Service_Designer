@@ -1,5 +1,5 @@
 # Azure Machine Learning으로 Model 구축하기
----
+
 만나서 반갑습니다 ! 🙌 <br>
 
 혹시 머신러닝을 사용하여 모델을 구축해보려고 했는데 어디서부터 어떻게 시작해야 할 지 막막하셨던 적이 있으신가요?
@@ -15,7 +15,9 @@
 - [Azure Machine Learning designer(v2)](https://learn.microsoft.com/ko-kr/azure/machine-learning/concept-designer?view=azureml-api-2)를 이용하여 No-Code로 모델을 구축합니다.
 
 # Index
----
+
+> 순서대로 진행하시는 것을 추천합니다 !
+
 0. [Ready to start !](./Session/Session0.md)
 1. [Create Azure Machine Learning Service](./Session/Session1.md)
 2. [Create VM in Azure Machine Learning Studio](./Session/Session2.md)
