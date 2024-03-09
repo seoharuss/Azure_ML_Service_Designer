@@ -20,4 +20,4 @@
 1. [Create Azure Machine Learning Service](./Session/Session1.md)
 2. [Create VM in Azure Machine Learning Studio](./Session/Session2.md)
 3. [Use Designer to build pipeline](./Session/Session3.md)
-4. [Create VM in Azure Machine Learning Studio](./Session/Session4.md)
+4. [Preview the data of the pipeline model](./Session/Session4.md)
