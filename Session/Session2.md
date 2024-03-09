@@ -50,3 +50,8 @@
 
 # Session 2. Summary
 
+해당 세션에서는 Azure Machine Learning Studio에서 VM을 생성하는 과정을 확인해봤습니다.
+
+다음 세션에서는 본격적으로 Desinger 탭에서 파이프라인을 구축해보려고 합니다 !
+
+[여기](./Session3.md)를 클릭해서 흥미로운 다음 세션을 시작해보세요 !
