@@ -90,4 +90,41 @@
 - 그리고 다시 컴포넌트 검색창에 `train`을 검색한 후, 아래로 스크롤하여 `Train Model` 컴포넌트를 끌어옵니다.
 - 그리고 다음 그림처럼 `Split Data` 컴포넌트와 `Linear Regression` 컴포넌트를 `Train Model` 컴포넌트에 연결해줍니다.
 
-  
+  ![image](https://github.com/seoharuss/Azure_ML_Service_Designer/assets/127467806/dfdd6fca-2fbb-4fc8-9e5e-0dee1afe91cc)
+
+- `Train Model`에 경고 표시가 되어 있는데 이는 `Label column`이 설정되지 않았기 때문입니다.
+- 이것을 해결하기 위해 `Train Model` 컴포넌트를 더블 클릭한 후, 오른쪽 상단의 열 편집 버튼을 누릅니다.
+
+  ![image](https://github.com/seoharuss/Azure_ML_Service_Designer/assets/127467806/723518d2-bba4-4885-9918-bfd915b8f355)
+
+- 열 이름에 "연봉"을 입력하고 저장을 누릅니다.
+
+  ![image](https://github.com/seoharuss/Azure_ML_Service_Designer/assets/127467806/bb6e3a0d-9a43-4376-817d-1ac5b1a832cf)
+
+- 다시 돌아와서, 컴포넌트 검색창에 `score`을 검색한 후, `Score Model` 컴포넌트를 끌어옵니다.
+- 그리고 그림처럼 `Split Data` 컴포넌트와 `Train Model` 컴포넌트를 `Score Model` 컴포넌트에 연결해줍니다.
+  > `Split Data` 모델의 오른쪽 데이터셋(테스트 데이터셋)을 `Score Model` 컴포넌트의 입력으로 주어, `Split Data` 모델의 왼쪽 데이터셋(훈련용 데이터셋)을 `Linear Regression`으로 훈련한 모델을 검증해보는 작업이라고 생각하시면 됩니다.
+
+  ![image](https://github.com/seoharuss/Azure_ML_Service_Designer/assets/127467806/eec82e3e-a71f-4fe0-b716-cc6511286bd4)
+
+- 마지막으로, 컴포넌트 검색창에 `evaluate`를 검색한 후, `Evaluate Model` 컴포넌트를 끌어옵니다.
+- 그리고 다음 그림처럼 `Score Model` 컴포넌트의 `Scored Dataset`을 `Evaluate Model` 컴포넌트에 연결해줍니다.
+- 그리고 우측 상단의 `구성 및 전송` 버튼을 클릭합니다.
+
+  ![image](https://github.com/seoharuss/Azure_ML_Service_Designer/assets/127467806/819b1b84-8e38-4a5c-8e64-aa34966deb8b)
+
+- 다음과 같은 창에서도 `제출` 버튼을 누릅니다.
+  ![image](https://github.com/seoharuss/Azure_ML_Service_Designer/assets/127467806/01c363c9-56c1-4f54-a435-ae01d65c79fc)
+
+- 만약 에러 메시지가 출력되면 무시하고 계속 `제출` 버튼을 클릭하면 됩니다.
+- 그리고 아까와 같이 파이프라인이 구축되고, 완료되면 `세부 정보 보기`를 클릭합니다.
+
+  ![image](https://github.com/seoharuss/Azure_ML_Service_Designer/assets/127467806/957f7c3b-85eb-4a48-9486-8c74928f1822)
+  ![image](https://github.com/seoharuss/Azure_ML_Service_Designer/assets/127467806/674af210-938b-44d3-93c6-79ff652a55c8)
+
+- 그러면 다음 그림과 같은 창이 생성됩니다.
+
+  ![image](https://github.com/seoharuss/Azure_ML_Service_Designer/assets/127467806/2c49ed50-b7b8-49a7-b156-815540a621a7)
+
+## Session 3. Summary
+이번 세션에서
