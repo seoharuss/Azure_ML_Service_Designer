@@ -52,4 +52,4 @@ Microsoft Azure는 [여기](https://azure.microsoft.com)에서 접속하시면 �
 
 다음 세션에서는 더욱 흥미로운 것들이 기다리고 있지 않을까요..? 😄
 
-[여기](./Session/Session2.md)를 클릭해서 세션을 이어나가 보세요 !
+[여기](./Session2.md)를 클릭해서 세션을 이어나가 보세요 !
