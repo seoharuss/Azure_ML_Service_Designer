@@ -7,11 +7,11 @@
 1. [Azure Portal](https://portal.azure.com/)에 접속하여 로그인을 한다.
 2. 상단의 검색창에 "구독"을 검색하여 클릭한다.
 
-![image](https://github.com/seoharuss/Azure_ML_Service_Designer/assets/127467806/21f3424e-320d-4291-9903-5e4b0aba6989)
+  ![image](https://github.com/seoharuss/Azure_ML_Service_Designer/assets/127467806/21f3424e-320d-4291-9903-5e4b0aba6989)
 
 3. 만약 구독이 있다면 "구독 이름", "구독 ID"가 존재하고, 구독이 없다면 다음과 같이 표시된다.
 
-![image](https://github.com/seoharuss/Azure_ML_Service_Designer/assets/127467806/7399bc29-f411-47ea-9dc2-59487c45f0ba)
+  ![image](https://github.com/seoharuss/Azure_ML_Service_Designer/assets/127467806/7399bc29-f411-47ea-9dc2-59487c45f0ba)
 <br>
 ## Azure 구독이 없는 경우
 
