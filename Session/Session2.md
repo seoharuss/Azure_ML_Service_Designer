@@ -28,5 +28,25 @@
 
   ![image](https://github.com/seoharuss/Azure_ML_Service_Designer/assets/127467806/9ddf6d31-87a7-40f9-a072-33e17ee49e58)
 
+- 가상머신 크기는 간단한 scikit-learn 실습을 진행하므로 `Standard_DS3_v2`를 선택해줍니다.
+- 그리고, 하단의 `검토+만들기`를 클릭합니다.
 
-  
+  ![image](https://github.com/seoharuss/Azure_ML_Service_Designer/assets/127467806/65e2e954-ae1a-47f7-8a64-7aab0114e6e1)
+
+- 마지막 검토 창에서 선택했던 조건들을 마지막으로 확인할 수 있습니다.
+- 하단의 만들기 버튼을 클릭합니다.
+
+  ![image](https://github.com/seoharuss/Azure_ML_Service_Designer/assets/127467806/fec7186c-72af-47a7-97d8-ee770836c153)
+
+- 그러면, 가상 머신이 생성 중인 것을 확인할 수 있습니다.
+- 가상 머신이 생성될 때까지 약 2~3분 가량 걸립니다.
+  > Tip 😄 : 컴퓨터 사양에 따라 가상 머신이 생성되는 시간이 다릅니다...
+
+  ![image](https://github.com/seoharuss/Azure_ML_Service_Designer/assets/127467806/40d08f5d-91a9-4470-a8b1-9609e9e84083)
+
+- 생성이 완료되면 상태에 "실행 중" 이라는 표시가 되어있습니다.
+
+  ![image](https://github.com/seoharuss/Azure_ML_Service_Designer/assets/127467806/0cabe9ad-902f-47e9-9910-2e761722da5d)
+
+# Session 2. Summary
+
