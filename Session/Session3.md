@@ -51,6 +51,7 @@
   ![image](https://github.com/seoharuss/Azure_ML_Service_Designer/assets/127467806/0ed9a68a-54f0-4916-9a05-9410dc28a2c5)
 
 - 파이프라인이 성공적으로 제출되었다면 `세부 정보 보기`를 클릭합니다.
+- **이 때, 새로운 탭에서 창이 생성되는데 이전 탭을 닫지 않습니다 !**
 
   ![image](https://github.com/seoharuss/Azure_ML_Service_Designer/assets/127467806/fa90cad2-a759-4382-a4ac-bc719825a84b)
 
@@ -72,7 +73,7 @@
 
   ![image](https://github.com/seoharuss/Azure_ML_Service_Designer/assets/127467806/3197c4de-f0d3-4b28-b7f1-0b930caefde1)
 
-- 다시 이전 창으로 돌아와서, 구성 요소 탭에서 `Machine Learning Algorithms`세션에서 `Linear Regression` 컴포넌트를 끌어옵니다.
+- 끄지 않았던 이전 탭으로 돌아와서, 구성 요소 탭에서 `Machine Learning Algorithms`세션에서 `Linear Regression` 컴포넌트를 끌어옵니다.
 
   ![image](https://github.com/seoharuss/Azure_ML_Service_Designer/assets/127467806/71283f2e-d062-47f9-bb4e-79b512889977)
 
